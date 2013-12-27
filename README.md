@@ -1,4 +1,4 @@
-Vagrant Development Environment for Drupal
+Vagrant Development Environment for PHP
 ==========================================
 
 How to Install:
