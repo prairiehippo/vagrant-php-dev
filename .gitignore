@@ -1,0 +1,4 @@
+sites
+devsites.pp
+.vagrant
+files/*.cfg
